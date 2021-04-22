@@ -1,0 +1,164 @@
+﻿ID,ENGLISH,FRENCH
+general.COVID-19_INT_PT,Covid-19 INTERNATIONAL PT,Covid-19 INTERNATIONAL PT
+general.EQA_DASH,EQA DASHBOARD,TABLEAU DE BORD EQA
+general.INT_PT_DASH,International PT Dashboard,Tableau de bord PT International
+general.INT_PTT,International PT,Tableau de bord International
+general.NAT_PT_DASH,National PT Dashboard,Tableau de bord National PT
+general.RETEST_DASH,Retesting Dashboard,Nouveau Test du Tableau de bord
+general.TEST_DASH,COVID-19 Test,Test COVID-19
+general.ADMIN,Admin,Administrateur
+general.LOGOUT,Logout,Se Déconnecter
+general.FILTER_OPT,Filtering Options,Options de filtrage
+general.COUNTRY,Country,Pays
+general.PROVIDER,Provider,Fournisseur
+general.YEAR,Year,An
+general.,Year,An
+general.ROUND,Round,Rond
+general.GENERATE,Generate,Produire
+general.PASSED,PASSED,PASSÉ
+general.FAILED,FAILED,ÉCHOUÉ
+general.RESULT_SUBMIT,RESULT SUBMITTED,RÉSULTAT SOUMIS
+general.SUPER_LABS,SUPERVISED LABS,LABORATOIRES SUPERVISÉS
+general.TOTAL_LABS,TOTAL LABS,TOTAL LABS
+general.LAB_LOCATIONS,Laboratory Locations,Emplacements des laboratoires
+general.LAB,Lab,Lab
+general.RESULT_NOT_SUBMIT,RESULT NOT SUBMITTED,RÉSULTAT NON SOUMIS
+general.VIEW_DETAILS,View Details,Voir les Détails
+general.LAB_COMP_RESULT,Lab Comparative Results,Résultats Comparatifs du Laboratoire
+general.METHOD_ANLYT,Method Analytics,Analyse de Méthode
+general.NON_SUB_REASON,Non Submission Reason,Raison de Non-Soumission
+general.METHOD,Method,Méthode
+general.REAS_REJ,Reason for Rejected Sample,Raison du motif rejeté
+general.NO_LABS,No. of Labs ,Nom. de Labs
+general.NO_PASSED,No. Passed,Nom. Réussi
+general.REASON,Reason,Raison
+general.RESULTS,Results,Résultats
+general.REG_RESULTS,Regional Results,Résultats Régionaux
+general.REGION,Region ,Région
+general.REG_PARTICIPATION,Regional Participation,Participation Régionale
+dataEntry.HOME,Home,Accueil
+dataEntry.SET_UP,Setup,Installer
+dataEntry.DATA_ENTRY,Data Entry,La Saisie des Données
+dataEntry.USERS,Users,Utilisateurs
+dataEntry.USER,User,Utilisateur
+dataEntry.PROVIDERS,Providers,Fournisseurs
+dataEntry.PROVIDER_LIST,Provider List,Liste des Fournisseurs
+dataEntry.ADD_PRO,Add Provider,Ajouter un Fournisseur
+dataEntry.SEARCH,Search,Chercher
+general.NAME,Name,Nom
+dataEntry.SAMP_REC,No. of Samples Received,Nombre d'échantillons Reçus
+dataEntry.SAMP_REJ,No. of Samples Rejected,Nombre d'échantillons Rejetés
+dataEntry.SAMP_ANA,No. of Samples Analysed,Nombre d'échantillons Analysés
+dataEntry.INVALID_SERIES,No. of Invalid Series,Nombre de Séries Non Valides
+dataEntry.POS_SAMP,No. of Postive Samples,Nombre d'échantillons Positifs
+dataEntry.TEST_DASH, TEST DASHBOARD,TABLEAU DE BORD DE TEST
+dataEntry.READY_TIME,Ready on Time,Prêt à Temps
+dataEntry.RES_READY_TIME,No Result Ready on Time,Nombre d'résultat prêt à temps
+dataEntry.PROVIDER_TYPE,Provider Type,Type de Fournisseur
+general.IS_ACTIVE,IsActive,C'estActif
+dataEntry.IS_SUPER,Is Laboratory Supervised,Est Supervisé en Laboratoire
+dataEntry.IS_SUBMIT,Is Results Submitted,le Résultat est-il Soumis
+dataEntry.SUBMIT,Submit,Soumettre
+dataEntry.USR_NAME,User Account Management,Gestion des Comptes Utilisateurs
+dataEntry.USR_EMAIL,Email Address,Adresse Electronique
+dataEntry.USR_PHN,Phone Number,Numéro de Téléphone
+dataEntry.USR_PHNE,Phone No,Num de Téléphone
+dataEntry.USR_TYPE,User Type,Type d'utilisateur
+dataEntry.USR_DET,User Details,Détails de l'utilisateur
+dataEntry.REGIONS,Regions,Régions
+dataEntry.EDIT,Edit,Éditer
+dataEntry.REG_LIST,Regions List,Liste des Régions
+dataEntry.DISTRICTS,Districts,Les Quartiers
+dataEntry.DISTRICT_LISTS,District Lists,Listes de District
+dataEntry.ADD_DISTRICT,Add District,Ajouter un District
+dataEntry.ADD_REG,Add Region,Ajouter une Région
+dataEntry.ADD_DATA,Add Data,Ajouter des données
+dataEntry.FACILITY,Facility,Établissement
+dataEntry.FACILITY_LIST,Facility List,Liste des Installations
+dataEntry.ADD_FACILITY,Add Facility,Ajouter une Installation
+dataEntry.DISTRICT,District,District
+dataEntry.FACILITY_TYPE,Facility Type,Type d'installation
+dataEntry.LONGITUDE,Longitude,Longitude
+dataEntry.LATITUDE,Latitude,Latitude
+dataEntry.FAC_TYPE_LIST,Facility type List,Liste des Types d'installations
+dataEntry.ADD_FAC_TYPE,Add Facility Type,Ajouter un Type d'établissement
+dataEntry.LIST_OF_COUNTRY,List of Countries,Liste des Pays
+dataEntry.ADD_COUNTRY,Add Country,Ajouter un Pays
+dataEntry.REJ_REASON,Rejection Reason,Motif du Rejet
+dataEntry.REASONS,Reasons,Les Raisons
+dataEntry.ADD_REASON,Add Reason,Ajouter une Raison
+dataEntry.TEST,COVID-19 Test Entry,Entrée de test COVID-19
+dataEntry.TEST_METHOD,Testing Method,Méthode d'essai
+dataEntry.TEST_DATA_ENT,Testing Data Entry,Test de la Saisie des Données
+dataEntry.TEST_DATA_LIST,Testing Data List,Liste des Données de Test
+dataEntry.METHOD_OF_TEST,Methods of Testing,Méthodes de Test
+dataEntry.ADD_METHOD,Add Method,Ajouter une Méthode
+dataEntry.EQA_PASS_MARK,EQA Pass Score,Score de Réussite EQA
+dataEntry.EQA_PASSMARK,EQA PassScore,Score de Réussite EQA
+dataEntry.EQA_PASSMARK_LIST,EQA Passscore List,Liste des Scores de Réussite EQA
+dataEntry.MARK,Mark,Marque
+dataEntry.ADD_EQA_PASS,Add EQA PassScore,Ajouter un Score de Réussite EQA
+dataEntry.PASSMARK,Pass Score,Note de Passage
+dataEntry.ROUNDS,Rounds,Rond
+dataEntry.ADD_ROUND,Add Round,Ajouter Rond
+dataEntry.INT_EQA_DATA,International PT EQA Data,Données Internationales PT EQA
+dataEntry.INT_EQA_DATA_ENT,International PT EQA Data Entry,Saisie de Données internationales PT EQA
+dataEntry.INT_EQA_LIST,International PT EQA List,Liste Internationale PT EQA
+dataEntry.ADD_EQA_DATA,Add EQA Data,Ajouter des Données EQA
+dataEntry.INT,International,Internationale
+dataEntry.MONTH,Month,Mois
+dataEntry.RESULT,Result,Résultat
+dataEntry.SUPERVISED,Supervised  ,Supervisé
+dataEntry.RES_SUB,Result Submitted,Résultat Soumis
+dataEntry.NAT_EQA_DATA_ENTRY,National PT EQA Data Entry,Saisie des Données Nationales PT EQA
+dataEntry.NAT_EQA_DATA,National PT EQA Data,Données Nationales PT EQA
+dataEntry.NAT_PT,National PT,Nationales PT 
+dataEntry.NAT,National,Nationales
+dataEntry.NAT_EQA_LIST,National PT EQA Data List,Liste Nationale des Données PT EQA
+dataEntry.NAT_RETEST_LIST,National Retesting EQA List,Nouvelle Liste Nationale d'EEQ de Test
+dataEntry.RETEST_PT,Retesting,
+dataEntry.NAT_RETEST_DATA_ENTRY,National Retesting Data Entry,Entrée de Nouveau Test des Données Nationales
+dataEntry.NAT_RETEST_EQA_DATA,National Retesting EQA Data,Données Nationales d'EEQ de Nouveau Test
+general.LOGIN,Login,S'identifier
+general.EMAIL,Email,Email
+general.PASSWORD,Password,mot de passe
+general.DASHBOARD,Dashboard,Tableau de bord
+general.DOC_CORRECTION,DOCUMENTED CORRECTIVES ACTIONS,ACTIONS CORRECTIVES DOCUMENTÉES
+general.MAP,Laboratory GIS Location,Emplacements des laboratoires SIG
+general.MODAL_DIALOG,Modal Dialog,Boîte de dialogue modale
+general.MODAL_CON,Modal body content here...,Contenu du corps modal ici...
+general.CLOSE,CLOSE,Proche
+general.FET_DATA,Fetching Data. Please wait...,Récupération des données. S'il vous plaît, attendez... 
+general.YES,Yes,Oui 
+general.NO,No,Non 
+general.NO_DATA,No Data Found,Pas de Données Disponibles 
+general.NOT_FOUND,Not Found,Pas Trouvé 
+general.LOCAL_EQA,Local EQA,EQA locale
+general.INTER_EQA,INTERNATIONAL EQA,EQA Internationale
+general.AFRICAMAP,MAP OF AFRICA,CARTE DE L'AFRIQUE
+general.MAPOF,MAP OF,CARTE DE
+general.CTY_RESULT_AVG,Country  Results(AVG),Résultats par pays (AVG)
+general.REG_RESULT_AVG,Regional  Results(AVG),Résultats régionaux (AVG)
+general.CTY.PART,Country Participation,Participation des pays
+general.REG.PART,Regional Participation(%),Participation régionale(%)
+year.JAN,January,janvier
+year.FEB,February,février
+year.MAR,March,Mars
+year.APR,April,avril
+year.MAY,May,Mai
+year.JUN,June,juin
+year.JUL,July,juillet
+year.AUG,August,août
+year.SEP,September,septembre
+year.OCT,October,octobre
+year.NOV,November,novembre
+year.DEC,December,décembre
+general.NEW,New,Nouveau
+TESTDASH.TOTALSAMPLE,Total Samples,Échantillons totaux
+TESTDASH.REJSAMPLE,Rejected Samples,Échantillons rejetés
+TESTDASH.TESTEDSAMPLE,Tested Samples,Échantillons testés
+TESTDASH.POSSAMPLE,Positive,Positive
+TESTDASH.NEGSAMPLE,Negative,Négative
+TESTDASH.IN_TATAMPLE,Good TAT,Bon délai d'exécution
+TESTDASH.INVSAMPLE,Invalid Series,Série invalide
+TESTDASH.TOTALLABS,Total Labs,Laboratoires totaux
